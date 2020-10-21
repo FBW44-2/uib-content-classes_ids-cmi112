@@ -1,0 +1,15 @@
+h1 {
+    background-color:rgb(155, 69, 182);
+}
+ol {
+    color: blueviolet;
+}
+#item-4 {
+    color: black;
+}
+h2 , h3 {
+    color: red;
+}
+h4 {
+    background-color: green;
+}
